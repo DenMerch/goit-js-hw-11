@@ -3,7 +3,6 @@ import { fetchData } from './fetchData';
 import Notiflix from 'notiflix';
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
-import InfiniteScroll from 'infinite-scroll';
 
 const formEl = document.getElementById("search-form");
 const galeryEl = document.querySelector(".gallery");
